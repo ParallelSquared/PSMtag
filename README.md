@@ -70,7 +70,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   source(params.R)
   ```
 
-  <h3>Producing DDA comparison plots (sage_dda.py)</h3>
+  <h3>Producing compound screen plots</h3>
   This script reads Sage search results and renders plots comparing tagged vs. label-free peptide scoring and fragmentation. It takes arguments in the following format:
   
   ```
@@ -86,23 +86,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   - search/search/LF_24 <i>(Tryptic label-free results, NCE24, Astral)</i>
   - search/search/T6_24 <i>(Tryptic PSMtag results, NCE24, Astral)</i>
 
-  <h3>Producing <i>de novo</i> sequencing comparison plots (sage_novorcloud.py / sage_pointnovo.py)</h3>
-  These scripts produce plots comparing Sage DB search results and <i>de novo</i> sequencing results. They are invoked similarly to sage_dda.py:
   
-  ```
-  python3 sage_novorcloud.py [LF_SAGE_RESULTS_PATH] [TAGGED_SAGE_RESULTS_PATH]
-  python3 sage_pointnovo.py [LF_SAGE_RESULTS_PATH] [TAGGED_SAGE_RESULTS_PATH]
-  ```
-  Compatible input folders for these scripts contain all Sage output files listed above for sage_dda.py, as well as the following files:
-  - denovo.csv <i>(de novo sequencing results from novor.cloud)</i>
-  - pointnovo.csv <i>(de novo sequencing results from PointNovo)</i>
-
-  To replicate publication figures, use the following Sage output directories provided in the MassIVE FTP repository MSV000097968:
-  - search/search/argc_lf_26 <i>(ArgC label-free results, NCE26, Astral)</i>
-  - search/search/argc_t6_26 <i>(ArgC PSMtag results, NCE26, Astral)</i>
-  - search/search/gluc_lf_24 <i>(GluC label-free results, NCE24, Astral)</i>
-  - search/search/gluc_t6_24 <i>(GluC PSMtag results, NCE24, Astral)</i>
-   
 </details>
 
 
