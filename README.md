@@ -66,14 +66,16 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
 <details>
 <summary>R instructions</summary>
   <h3>Installing dependencies</h3>
-  Begin by installing and loading the required packages:
+  Begin by installing the packages that require manual installation:
 
   ```
-  install_github("https://github.com/vdemichev/diann-rpackage")
+  install.packages("remotes")
+  library("remotes")
+  remotes::install_github("https://github.com/vdemichev/diann-rpackage")
   remotes::install_github("coolbutuseless/ggpattern")
   ```
 
-  Then, 
+  Then, the remaining packages can be installed automatically and loaded: 
   
   ```
   source(params.R)
