@@ -66,11 +66,19 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
 <details>
 <summary>R instructions</summary>
   <h3>Installing dependencies</h3>
-  Begin by installing the required packages:
+  Begin by installing and loading the required packages:
+
+  ```
+  install_github("https://github.com/vdemichev/diann-rpackage")
+  remotes::install_github("coolbutuseless/ggpattern")
+  ```
+
+  Then, 
   
   ```
   source(params.R)
   ```
+
 
   <h3>Producing compound screen plots</h3>
   This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16) to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
