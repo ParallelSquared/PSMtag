@@ -83,14 +83,15 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
 
 
   <h3>Producing compound screen plots</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16) to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16">Zenodo/Figure1</a> to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
+
   
   ```
   Figure1bcd_ExtDatFig1.R
   ```
 
   <h3>Producing DIA identifications plots: timsTOF (DIA-NN) SCP</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item28) to perform the analysis and plot in Figure 4a. 
+  This script imports data archived at (https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item28) to perform the analysis and plot in Figure 4a. 
   
   ```
   Figure4a.R
