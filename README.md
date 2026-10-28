@@ -92,6 +92,48 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
   Figure4b.R
   ```
+
+  <h3>Producing DIA identifications plots: Astral (JMod)</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item36) to perform the analysis and plot in Figure 4c. 
+  
+  ```
+  Figure4c.R
+  ```
+
+    <h3>Producing DIA identifications plots: Astral (Dual column, up to 1,130 SPD)</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item38) to perform the analysis and plot in Figure 4d. 
+  
+  ```
+  Figure4d.R
+  ```
+
+  <h3>Producing sample-per-day (SPD) barplots</h3>
+  This script reproduces the plot in Figure 4e based on time between raw file creation time-stamps. 
+  
+  ```
+  Figure4e.R
+  ```
+
+  <h3>Quantitation at 626 and 1,130 SPD</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10) to perform the analysis and plot in Figure 4g. 
+  
+  ```
+  Figure4g.R
+  ```
+
+  <h3>Spectral library tuning evaluation (timsTOF SCP and Astral)</h3>
+  This script imports data archived at [Zenodo, timsTOF SCP](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14) and [Zenodo, Astral](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13) to perform the analysis and plot in Figure 5. 
+  
+  ```
+  Figure5.R
+  ```
+
+  <h3>Evaluating protein coverage and consistency across cell lines</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item11) to perform the analysis and plot in Figure 6. 
+  
+  ```
+  Figure6.R
+  ```
   
 </details>
 
