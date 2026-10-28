@@ -83,7 +83,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
 
 
   <h3>Producing compound screen plots</h3>
-  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16">Zenodo/Figure1</a> to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16">Zenodo/Figure1bcd</a> to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
 
   
   ```
@@ -91,28 +91,29 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
 
   <h3>Producing DIA identifications plots: timsTOF (DIA-NN) SCP</h3>
-  This script imports data archived at (https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item28) to perform the analysis and plot in Figure 4a. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item28">Zenodo/Figure4a</a> to perform the analysis and plot in Figure 4a. 
+
   
   ```
   Figure4a.R
   ```
 
   <h3>Producing DIA identifications plots: Astral (DIA-NN)</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item33) to perform the analysis and plot in Figure 4b. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item33">Zenodo/Figure4b</a> to perform the analysis and plot in Figure 4b. 
   
   ```
   Figure4b.R
   ```
 
   <h3>Producing DIA identifications plots: Astral (JMod)</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item36) to perform the analysis and plot in Figure 4c. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item36">Zenodo/Figure4c</a> to perform the analysis and plot in Figure 4c. 
   
   ```
   Figure4c.R
   ```
 
   <h3>Producing DIA identifications plots: Astral (Dual column, up to 1,130 SPD)</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item38) to perform the analysis and plot in Figure 4d. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item38">Zenodo/Figure4d</a> to perform the analysis and plot in Figure 4d. 
   
   ```
   Figure4d.R
@@ -126,27 +127,27 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
 
   <h3>Quantitation at 626 and 1,130 SPD</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10) to perform the analysis and plot in Figure 4g. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10">Zenodo/Figure4g</a> to perform the analysis and plot in Figure 4g. 
   
   ```
   Figure4g_ExtDatFig6.R
   ```
 
   <h3>Spectral library tuning evaluation (timsTOF SCP and Astral)</h3>
-  This script imports data archived at [Zenodo, timsTOF SCP](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14) and [Zenodo, Astral](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13) to perform the analysis and plot in Figure 5. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14">Zenodo/Figure5abcef (timsTOF SCP)</a> and <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13">Zenodo/Figure5df (Astral)</a> to perform the analysis and plot in Figure 5. 
   
   ```
   Figure5.R
   ```
 
   <h3>Spectral library training-validation split (timsTOF SCP and Astral)</h3>
-  This script imports data archived at [Zenodo, timsTOF SCP](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14) and [Zenodo, Astral](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13) to perform the training-validation split.   
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14">Zenodo/Figure5abcef (timsTOF SCP)</a> and <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13">Zenodo/Figure5df (Astral)</a> to perform the training-validation split.   
   ```
   Figure5_training_test_split.R
   ```
 
   <h3>Evaluating protein coverage and consistency across cell lines</h3>
-  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item11) to perform the analysis and plot in Figure 6. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item11">Zenodo/Figure6</a> to perform the analysis and plot in Figure 6. 
   
   ```
   Figure6.R
