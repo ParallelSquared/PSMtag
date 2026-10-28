@@ -127,7 +127,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
 
   <h3>Quantitation at 626 and 1,130 SPD</h3>
-  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10">Zenodo/Figure4g</a> to perform the analysis and plot in Figure 4g. 
+  This script imports data archived at <a href="https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10">Zenodo/Figure4g</a> to perform the analysis and plot in Figure 4g and Extended Data Figure 6. 
   
   ```
   Figure4g_ExtDatFig6.R
