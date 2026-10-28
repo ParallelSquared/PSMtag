@@ -128,7 +128,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item10) to perform the analysis and plot in Figure 4g. 
   
   ```
-  Figure4g.R
+  Figure4g_ExtDatFig6.R
   ```
 
   <h3>Spectral library tuning evaluation (timsTOF SCP and Astral)</h3>
@@ -136,6 +136,12 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   
   ```
   Figure5.R
+  ```
+
+  <h3>Spectral library training-validation split (timsTOF SCP and Astral)</h3>
+  This script imports data archived at [Zenodo, timsTOF SCP](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item14) and [Zenodo, Astral](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item13) to perform the training-validation split.   
+  ```
+  Figure5_training_test_split.R
   ```
 
   <h3>Evaluating protein coverage and consistency across cell lines</h3>
