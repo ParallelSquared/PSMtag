@@ -73,21 +73,25 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
 
   <h3>Producing compound screen plots</h3>
-  This script reads Sage search results and renders plots comparing tagged vs. label-free peptide scoring and fragmentation. It takes arguments in the following format:
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item16) to perform the analysis and plots in Figure 1b,c,d and Extended Data Figure 1. 
   
   ```
-  python3 sage_dda.py [LF_SAGE_RESULTS_PATH] [TAGGED_SAGE_RESULTS_PATH]
+  Figure1bcd_ExtDatFig1.R
   ```
-  where LF_SAGE_RESULTS_PATH and TAGGED_SAGE_RESULTS_PATH are paths to Sage output directories, which must contain:
-  - results.sage.tsv
-  - lfq.tsv
-  - matched_fragments.tsv
 
-  To replicate publication figures, use the following Sage output directories provided in the MassIVE FTP repository MSV000097968:
-  - search/search/LF_28 <i>(Tryptic label-free results, NCE28, Astral)</i>
-  - search/search/LF_24 <i>(Tryptic label-free results, NCE24, Astral)</i>
-  - search/search/T6_24 <i>(Tryptic PSMtag results, NCE24, Astral)</i>
+  <h3>Producing DIA identifications plots: timsTOF (DIA-NN) SCP</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item28) to perform the analysis and plot in Figure 4a. 
+  
+  ```
+  Figure4a.R
+  ```
 
+  <h3>Producing DIA identifications plots: Astral (DIA-NN)</h3>
+  This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item33) to perform the analysis and plot in Figure 4b. 
+  
+  ```
+  Figure4b.R
+  ```
   
 </details>
 
