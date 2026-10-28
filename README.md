@@ -8,7 +8,7 @@ Data:
 
 </h2>
 
-All raw and processed data from the [article](https://www.biorxiv.org/content/10.1101/2025.05.22.655509v1) are organized in this data repositories: [MassIVE MSV000097968](http://massive.ucsd.edu/ProteoSAFe/status.jsp?task=4906b9cefe1c4aa29bfca03a27fb6a65),[MSV000103730](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c6ce3f3cfc314dc3aef99a7d9a4f788e) and [ProteomeXchange PXD064191](https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD064191), [PXD086351](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD086351). 
+All raw and processed data from the [article](https://www.biorxiv.org/content/10.1101/2025.05.22.655509v1) are organized in this data repositories: [MassIVE MSV000097968](http://massive.ucsd.edu/ProteoSAFe/status.jsp?task=4906b9cefe1c4aa29bfca03a27fb6a65), [MSV000103730](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c6ce3f3cfc314dc3aef99a7d9a4f788e) and [ProteomeXchange PXD064191](https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD064191), [PXD086351](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD086351). 
 
 Processed data is also organized by contributing Figure in a Zenodo data repository at this DOI: [https://doi.org/10.5281/zenodo.23675860](https://doi.org/10.5281/zenodo.23675860).  
 
