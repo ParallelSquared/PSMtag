@@ -100,7 +100,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   Figure4c.R
   ```
 
-    <h3>Producing DIA identifications plots: Astral (Dual column, up to 1,130 SPD)</h3>
+  <h3>Producing DIA identifications plots: Astral (Dual column, up to 1,130 SPD)</h3>
   This script imports data archived at [Zenodo](https://zenodo.org/records/23675860/preview/zenodo_upload_20261027.zip?include_deleted=0#tree_item38) to perform the analysis and plot in Figure 4d. 
   
   ```
