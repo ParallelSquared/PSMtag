@@ -154,6 +154,13 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   Figure6.R
   ```
   
+  <h3>Additional analyses and figures</h3>
+  Additional analyses and figures may be recreated from data stored in repositories MassIVE or ProteomeXchange:  
+  
+  ```
+  /archive/
+  ```
+
 </details>
 
 
