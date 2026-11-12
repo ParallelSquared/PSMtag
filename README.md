@@ -155,7 +155,7 @@ This repository contains the [Python](https://github.com/ParallelSquared/tag/tre
   ```
   
   <h3>Additional analyses and figures</h3>
-  Additional analyses and figures may be recreated from data stored in repositories MassIVE or ProteomeXchange:  
+  Additional analyses and figures may be recreated from data stored in repositories MassIVE or ProteomeXchange using scripts in:  
   
   ```
   /archive/
